@@ -1,0 +1,278 @@
+body{
+    overflow-x: hidden;
+}
+
+.container-fluid{
+    background-image: url(../images/bb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:auto;
+    padding-bottom:11.9%;
+}
+.container{
+    background-color:black;
+    margin-top:5%;
+    
+}
+#portfolio a{
+    color: cyan;
+    font-family: georgia;
+
+}
+#portfolio a:hover{
+    background-color: transparent;
+    color: orangered;
+}
+.page-on{
+    color: orangered !important;
+}
+#portfolio{
+    padding-top:10%;
+    height:auto;
+}
+ 
+#navbar-portfolio h1{
+    color: white;
+    font-family: georgia;
+    font-size: 18px;
+    margin-left:8%;
+}
+#navbar-content{
+    background-color: black;
+    padding-top:3%;
+}
+.content-experience{
+    background-color: rgb(64, 219, 167);
+    padding-top:1.5%;
+    height:auto;
+}
+#about-heading{
+    color: white;
+    font-family: georgia;
+}
+#about-me{
+    color:whitesmoke;
+    font-size:15px;
+    padding-top:26%;
+}
+#oyoo{
+    margin-top:17%;
+    margin-right:25%;
+}
+
+/* Skills */
+#boots{
+    margin-top:8%;
+}
+.boots{
+    margin-top:9%;
+}
+#photo{
+    margin-top: -10%;
+}
+.photo{
+    margin-top: -20%;
+}
+#illus{
+    margin-top:8%;
+}
+.illus{
+    margin-top:-4%;
+}
+#description p{
+    color: white;
+    font-family: georgia;
+    font-size: 16px;
+}
+
+/* Experience */
+.experience h5{
+    color: white;
+    font-family: georgia;
+    font-size: 18px;
+}
+.experience h6{
+    color: white;
+    font-family: georgia;
+    font-size: 18px;
+}
+
+.experience p{
+    color:wheat;
+    font-family: georgia;
+    font-size: 16px;
+    padding-top: 8%;
+}
+
+/* Portfolio */
+.content-portfolio{
+    background-color: rgb(64, 219, 167);
+    padding-top:1.5%;
+    height:auto;
+
+}
+.portfolio{
+    margin-top: 5%;
+}
+#mom-portfolio{
+    margin-bottom: 2%;
+}
+
+
+/* ==========================================================
+LANDING PAGE
+============================================================================ */
+#main{
+    background: url(../images/bb.jpg);
+    height: 100vh;
+    width:90vw;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 3%;
+    text-align: center;
+
+}
+
+/* .overlay-home{
+background-color: black;
+} */
+
+.container-fluid-main{
+    background-color: #000;
+    width: 100%;
+    height: 70px;
+}
+
+.mercy{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    
+}
+
+.mercy-irene{
+    color: orangered;
+}
+
+.navigation{
+    padding-left: 55%;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+
+.nav-port{
+    color: cyan;
+    padding: 15px;
+    font-family: georgia;
+}
+
+.nav-port:hover{
+    color: orangered;
+    list-style-type: none;
+    text-decoration-line: none;
+    
+}
+.hello1{
+    margin-top:20%;
+    color: white;
+    font-size: 19px;
+    font-family: georgia;
+}
+.hello
+{
+    color:rgb(228, 151, 8);
+    font-size: 19px;
+    font-family: georgia;
+    margin-top:5%;
+}
+#available{
+    font-family: georgia;
+}
+
+.m-irene{
+    color: orangered;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.social-info a{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 14px; 
+    color:rgb(228, 151, 8);
+}
+.social-info{
+    margin-left: -4%;
+}
+
+.email{
+    color: rgb(19, 18, 18);
+   
+}
+.mail{
+    font-size: 14px;
+    font-family: georgia;
+    color: rgb(7, 7, 7);
+    
+}
+.mail1{
+    font-size: 14px;
+    font-family: georgia;
+    color: rgb(12, 12, 12);
+    margin-left: -8.5%;
+    
+}
+
+.bars{
+    color: orangered;
+}
+
+/* Contact */
+#main-contact{
+    background: url(../images/bb.jpg);
+    height: 90vh;
+    width: 70%;
+    background-position: center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 3%;
+    text-align: center;
+    opacity: 0.9;
+
+}
+.overlay-contact .hello{
+    margin-top: 10%;
+}
+
+.find-contact{
+    color:orangered;
+    margin-top:25%;
+    font-family: georgia;
+}
+.work-contact{
+    color: white;
+    font-family: georgia;
+}
+.spec-contact{
+    color:black;
+    font-family: georgia;
+    font-size: 16px;
+}
+.email-contact{
+    font-family: georgia;
+    font-size: 16px;
+    color:black;
+}
+.email-contact1{
+    margin-left: -13%;
+    font-size: 17px;
+    color:black;
+}
+#social-icon{
+    color:orangered;
+    margin-left: -12%;
+}
+#social-icons{
+    color: orangered;
+    margin: 1%;
+}
